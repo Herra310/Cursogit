@@ -1,0 +1,8 @@
+//**********Comandos de Git************
+
+//Checar version 
+git --version
+//Iniciar el repositorio
+git init
+//Lista de configuracion
+git config --list
